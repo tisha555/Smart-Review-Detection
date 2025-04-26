@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Product Review Analyzer",
+    "version": "1.0",
+    "description": "Extracts and analyzes product reviews",
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "host_permissions": [
+      "https://www.amazon.in/*","http://localhost:5000/","http://127.0.0.1:5000/*"
+    ]
+  }
