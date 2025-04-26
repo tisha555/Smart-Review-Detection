@@ -82,16 +82,6 @@ The **Smart Review Detection System** addresses the growing challenge of AI-gene
 | ![green indicator](https://via.placeholder.com/150x50?text=Genuine+-+Green) | ![red indicator](https://via.placeholder.com/150x50?text=Suspicious+-+Red) |
 
 ---
+Live Demo
 
-## 🤝 Contributing
-Contributions are welcome! If you'd like to help expand support or improve the detection system, feel free to fork the repo and submit a pull request. Together, we can build a more transparent internet.
-
----
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> _Let's make the web a more honest and trustworthy space, one review at a time._ 🌟
-
+Watch the live working demo here: Smart Review Detection Live Demo
