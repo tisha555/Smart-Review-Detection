@@ -84,4 +84,4 @@ The **Smart Review Detection System** addresses the growing challenge of AI-gene
 ---
 Live Demo
 
-Watch the live working demo here: Smart Review Detection Live Demo
+Watch the live working demo here: (https://drive.google.com/file/d/1dujkJ9pxFSxPFkgQmQT0KAfyRjSMvRiS/view?usp=sharing)
