@@ -1,7 +1,6 @@
 
 
-# Creating the markdown content as a string
-readme_content = """
+
 # 🚀 Smart Review Detection System
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
